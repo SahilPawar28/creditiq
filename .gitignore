@@ -1,0 +1,17 @@
+# Frontend
+creditwise-dashboard-main/node_modules/
+creditwise-dashboard-main/dist/
+creditwise-dashboard-main/.env.local
+creditwise-dashboard-main/.env
+
+# Backend
+backend/__pycache__/
+backend/*.pyc
+backend/model.pkl
+backend/.env
+backend/venv/
+backend/.venv/
+
+# OS
+.DS_Store
+Thumbs.db
